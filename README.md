@@ -14,7 +14,10 @@
 - 🌍 **CORS Ready** – Built to work across frontend & backend.  
 
 ---
+- Screenshot of demo
+[DEMO SCREENSHOT](./public/screenshot.png)
 
+---
 ## 📦 Installation  
 
 ```bash
