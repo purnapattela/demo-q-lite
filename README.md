@@ -13,9 +13,10 @@
 - 🔑 **API Key Protection** – Secure endpoints with simple headers.  
 - 🌍 **CORS Ready** – Built to work across frontend & backend.  
 
----
-- Screenshot of demo
-[DEMO SCREENSHOT](./public/screenshot.png)
+### DEMO SCREENSHOT
+![DEMO SCREENSHOT](./public/demo.png)
+### DASHBOARD SCREENSHOT
+![DASHBOARD SCREENSHOT](./public/dashboard.png)
 
 ---
 ## 📦 Installation  
